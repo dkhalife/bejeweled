@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bejeweled</string>
+    <string name="playersNameDialog_title">Identification</string>
+    <string name="playerName">Nom du joueur</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="shortPlayerName">Au moins 3 caractères SVP</string>
+    <string name="longPlayerName">Au plus 12 caractères SVP</string>
+    <string name="finalScore">Vous avez accumlé un score de:</string>
+
+</resources>
